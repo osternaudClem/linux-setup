@@ -40,6 +40,7 @@ The script will prompt you for each tool, allowing you to skip unnecessary insta
 
 - VSCode
 - Cursor AI
+- Postman
 
 ### Misc app
 
